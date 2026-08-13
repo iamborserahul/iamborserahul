@@ -3,7 +3,7 @@
 ### Web Developer | PHP • Laravel • CodeIgniter • MySQL
 
 [![Website](https://img.shields.io/badge/Website-rahulborse.in-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rahulborse.in)
-[![GitHub](https://img.shields.io/badge/GitHub-borse2792-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/borse2792)
+[![GitHub](https://img.shields.io/badge/GitHub-iamborserahul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamborserahul)
 [![Email](https://img.shields.io/badge/Email-borse2792%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borse2792@gmail.com)
 
 ---
@@ -108,18 +108,18 @@ I follow a structured, client-focused development methodology to deliver clean, 
 
 ## 📌 Featured Projects
 
-### 🌐 [Rahul Borse Portfolio & Official Website](https://github.com/borse2792/rahulborse)
-> Official professional portfolio website showcasing services, custom web applications, e-commerce solutions, and technical articles.
-* **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript
-* **Live Link:** [rahulborse.in](https://rahulborse.in)
-* **Repository:** [borse2792/rahulborse](https://github.com/borse2792/rahulborse)
+| Project Name | Description & Category | Live Demo |
+| :--- | :--- | :--- |
+| **Corrochem Plast** | Corporate Website & Custom CRM Solution | 🔗 [corrochemplast.com](https://corrochemplast.com/) |
+| **Love Yatri** | Card Game E-Commerce Store & Platform | 🔗 [loveyatri.com](https://loveyatri.com/) |
+| **Habitat Prime** | Membership & Loyalty Customer Portal | 🔗 [habitatprime.in](https://habitatprime.in/) |
+| **Habitat Realty** | Real Estate Listing & Property Search Platform | 🔗 [habitatrealty.in](https://habitatrealty.in/) |
+| **Being Digital Preneur** | E-Learning Platform & Digital Ecosystem | 🔗 [beingdigitalpreneurr.com](https://beingdigitalpreneurr.com/) |
+| **ApkiCar** | Online Car Selling & Vehicle Marketplace | 🔗 [apkicar.in](https://apkicar.in/) |
+| **Ganpati Darbar** | Devotional Portal & Online Visibility Platform | 🔗 [ganpatidarbar.in](https://ganpatidarbar.in/) |
+| **Shree Durga Cab** | Cab Booking & Travel Services Platform | 🔗 [ganpatidarbar.in](https://ganpatidarbar.in/) |
 
-### 🎨 [HTML Web UI Design Templates](https://github.com/borse2792/html-design)
-> Repository containing modular, responsive HTML5/CSS3 web templates and UI component layouts for modern web development projects.
-* **Tech Stack:** HTML5, CSS3, JavaScript, Responsive Design
-* **Repository:** [borse2792/html-design](https://github.com/borse2792/html-design)
-
-🌐 **Explore all client solutions & portfolio items:** [rahulborse.in/portfolio](https://rahulborse.in/portfolio)
+🌐 **Explore full portfolio and client case studies:** [rahulborse.in/portfolio](https://rahulborse.in/portfolio)
 
 ---
 
@@ -147,6 +147,20 @@ I regularly write about web development, PHP migrations, backend architecture, a
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=iamborserahul&theme=dark&background=0D1117&border=007ACC&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakNum=007ACC" alt="GitHub Streak Stats" width="80%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamborserahul&theme=react-dark&bg_color=0D1117&color=007ACC&line=007ACC&point=ffffff" alt="Contribution Graph" width="95%" />
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 Feel free to reach out for project inquiries, technical consulting, custom web development, or PHP legacy migrations!
@@ -154,5 +168,6 @@ Feel free to reach out for project inquiries, technical consulting, custom web d
 * 🌐 **Website:** [https://rahulborse.in](https://rahulborse.in)
 * 💼 **Portfolio:** [https://rahulborse.in/portfolio](https://rahulborse.in/portfolio)
 * 📧 **Email:** [borse2792@gmail.com](mailto:borse2792@gmail.com)
-* 🐙 **GitHub:** [github.com/borse2792](https://github.com/borse2792)
+* 🐙 **GitHub:** [github.com/iamborserahul](https://github.com/iamborserahul)
+* 🐤 **X / Twitter:** [@iamrahulborse](https://x.com/iamrahulborse)
 * 📍 **Location:** Surat, Gujarat, India
